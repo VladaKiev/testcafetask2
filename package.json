@@ -1,0 +1,17 @@
+{
+  "name": "testcafetask2",
+  "version": "1.0.0",
+  "description": "task2 just to try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testcafetask2"
+  ],
+  "author": "vz",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.8"
+  }
+}
